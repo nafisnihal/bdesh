@@ -1,0 +1,71 @@
+import React from "react";
+import "../styles/Header.scss";
+import { AiFillFacebook, AiFillYoutube, AiFillForward } from "react-icons/ai";
+
+const Header = () => {
+  return (
+    <div id="header">
+      <div className="container d-flex justify-content-between">
+        <div className="d-flex gap-5 align-items-center">
+          <a href="" className="header-menu">
+            Bdjobs
+          </a>
+          <a href="" className="header-menu">
+            Jobs
+          </a>
+          <a href="" className="header-menu">
+            Job Seeker Account
+          </a>
+          <a href="" className="header-menu-special">
+            Recruitment Agency / Foreign Employers
+            <AiFillForward className="ms-2 fs-5" />
+          </a>
+        </div>
+        <div className="d-flex gap-2 align-items-center">
+          <a href="" className="my-auto">
+            <AiFillFacebook className="text-white header-social fs-4 p-1 rounded-circle" />
+          </a>
+          <a href="" className="my-auto">
+            <AiFillYoutube className="text-white bg-danger fs-4 p-1 rounded-circle" />
+          </a>
+          <div
+            class="btn-group"
+            role="group"
+            aria-label="Basic radio toggle button group"
+          >
+            <input
+              type="radio"
+              className="btn-check"
+              name="btnradio"
+              id="btnradio1"
+              autocomplete="off"
+              checked
+            ></input>
+            <label
+              className="btn btn-outline-primary my-1 py-1 header-radio"
+              for="btnradio1"
+            >
+              ENG
+            </label>
+
+            <input
+              type="radio"
+              className="btn-check"
+              name="btnradio"
+              id="btnradio2"
+              autocomplete="off"
+            ></input>
+            <label
+              className="btn btn-outline-primary my-1 py-1 header-radio-alt"
+              for="btnradio2"
+            >
+              বাংলা
+            </label>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Header;

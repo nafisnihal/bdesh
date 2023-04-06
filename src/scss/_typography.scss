@@ -1,0 +1,25 @@
+@import "../scss/variable";
+
+.header-menu {
+  font-family: $font-family;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 21px;
+  color: $title-font-color;
+  margin: 0;
+  padding: 11px 0;
+}
+.header-menu-special {
+  font-family: $font-family;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 21px;
+  color: $title-font-color;
+  background-color: #D4D8D9;
+  margin: 0;
+  padding: 11px ;
+}

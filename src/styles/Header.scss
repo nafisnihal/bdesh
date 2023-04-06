@@ -1,0 +1,24 @@
+@import "../scss/typography";
+@import "../scss/variable";
+
+#header {
+    background-color: #ECEFF1;
+
+    .header-social {
+        background-color: $primary-color;
+    }
+
+    .header-radio {
+        font-size: 12px;
+        background-color: $primary-color;
+    }
+    .header-radio-alt {
+        font-size: 12px;
+        background-color: white;
+    }
+    @media (min-width: 1200px) {
+    .container {
+        max-width: 1180px;
+    }
+}
+}
