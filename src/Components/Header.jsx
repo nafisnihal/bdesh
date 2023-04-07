@@ -7,25 +7,34 @@ const Header = () => {
     <div id="header">
       <div className="container d-flex justify-content-between">
         <div className="d-flex gap-5 align-items-center">
-          <a href="" className="header-menu">
+          <a href="https://bdjobs.com/" className="header-menu">
             Bdjobs
           </a>
-          <a href="" className="header-menu">
+          <a
+            href="https://bdesh.bdjobs.com/jobsearch.asp"
+            className="header-menu"
+          >
             Jobs
           </a>
-          <a href="" className="header-menu">
+          <a
+            href="https://mybdjobs.bdjobs.com/mybdjobs/welcome.asp"
+            className="header-menu"
+          >
             Job Seeker Account
           </a>
-          <a href="" className="header-menu-special">
+          <a
+            href="https://corporate3.bdjobs.com/default.asp"
+            className="header-menu-special"
+          >
             Recruitment Agency / Foreign Employers
             <AiFillForward className="ms-2 fs-5" />
           </a>
         </div>
         <div className="d-flex gap-2 align-items-center">
-          <a href="" className="my-auto">
+          <a href="https://www.facebook.com/mybdjobs" className="my-auto">
             <AiFillFacebook className="text-white header-social fs-4 p-1 rounded-circle" />
           </a>
-          <a href="" className="my-auto">
+          <a href="https://www.youtube.com/mybdjobs" className="my-auto">
             <AiFillYoutube className="text-white bg-danger fs-4 p-1 rounded-circle" />
           </a>
           <div
