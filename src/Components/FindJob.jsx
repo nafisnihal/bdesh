@@ -9,7 +9,7 @@ const FindJob = () => {
       <div className="d-flex flex-column align-items-start my-4 me-4">
         <h1 className="title-1 mb-4">Find your dream job</h1>
         <div>
-          <label for="inputOccupation" className="title-2 mb-2">
+          <label htmlFor="inputOccupation" className="title-2 mb-2">
             <FaBriefcase className="mb-1 me-1" /> Write your occupation
           </label>
           <input
@@ -35,7 +35,6 @@ const FindJob = () => {
         </div>
         <div className="mt-2 w-100">
           <p className="title-2 mb-2">
-            {" "}
             <MdLocationPin className="mb-1 me-1" /> Country
           </p>
           <select

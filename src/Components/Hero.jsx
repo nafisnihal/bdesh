@@ -5,7 +5,7 @@ import CountryCategory from './CountryCategory'
 
 const Hero = () => {
   return (
-    <div className='bg-primary'>
+    <div id='hero' className='bg-primary'>
       <div className="container">
         <div className="row">
           <div className="col-sm-12 col-md-3">

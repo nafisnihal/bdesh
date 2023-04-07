@@ -38,7 +38,7 @@ const Header = () => {
             <AiFillYoutube className="text-white bg-danger fs-4 p-1 rounded-circle" />
           </a>
           <div
-            class="btn-group"
+            className="btn-group"
             role="group"
             aria-label="Basic radio toggle button group"
           >
@@ -47,12 +47,12 @@ const Header = () => {
               className="btn-check"
               name="btnradio"
               id="btnradio1"
-              autocomplete="off"
+              autoComplete="off"
               checked
             ></input>
             <label
               className="btn btn-outline-primary my-1 py-1 header-radio"
-              for="btnradio1"
+              htmlFor="btnradio1"
             >
               ENG
             </label>
@@ -62,11 +62,11 @@ const Header = () => {
               className="btn-check"
               name="btnradio"
               id="btnradio2"
-              autocomplete="off"
+              autoComplete="off"
             ></input>
             <label
               className="btn btn-outline-primary my-1 py-1 header-radio-alt"
-              for="btnradio2"
+              htmlFor="btnradio2"
             >
               বাংলা
             </label>

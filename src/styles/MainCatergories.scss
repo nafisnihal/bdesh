@@ -1,0 +1,8 @@
+@import "../scss/typography";
+@import "../scss/variable";
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1080px;
+  }
+}

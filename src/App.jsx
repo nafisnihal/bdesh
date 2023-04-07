@@ -3,6 +3,7 @@ import "./App.scss";
 import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
 import Summary from "./Components/Summary";
+import MainCatergories from "./Components/MainCatergories";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Navbar />
       <Hero />
       <Summary />
+      <MainCatergories />
     </div>
   );
 }
