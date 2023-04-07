@@ -65,7 +65,10 @@ const Navbar = () => {
           </div>
           <div className="navbar-menu-alt d-flex align-items-center gap-2">
             <FaPhone className="fs-5" />
-            <a href="#" className="navbar-menu-alt">
+            <a
+              href="https://www.bdjobs.com/contact.asp?lanset=eng"
+              className="navbar-menu-alt"
+            >
               Contact Us
             </a>
           </div>

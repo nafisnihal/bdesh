@@ -16,9 +16,9 @@
   font-size: 13px;
   line-height: 21px;
   color: $title-font-color;
-  background-color: #D4D8D9;
+  background-color: #d4d8d9;
   margin: 0;
-  padding: 8px 11px ;
+  padding: 8px 11px;
 }
 .navbar-menu {
   text-decoration: none;
@@ -55,4 +55,54 @@
   line-height: 20px;
   color: $primary-color;
   margin: 0;
+}
+.title-1 {
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 24px;
+  color: $body-font-color;
+}
+.title-2 {
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 23px;
+  color: $body-font-color;
+}
+.title-3 {
+  margin-bottom: 12px;
+  text-decoration: none;
+  font-style: normal;
+  font-size: 16px;
+  opacity: 0.8;
+  line-height: 23px;
+  color: $body-font-color;
+}
+.title-4 {
+  margin-bottom: 12px;
+  text-decoration: none;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 700;
+  color: $title-font-color;
+}
+.title-5 {
+  text-decoration: none;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24px;
+  color: $title-font-color;
+}
+.title-3:hover {
+  margin-bottom: 12px;
+  text-decoration: none;
+  font-style: normal;
+  font-size: 16px;
+  opacity: 0.8;
+  line-height: 23px;
+  color: $body-font-color;
 }

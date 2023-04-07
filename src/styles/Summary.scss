@@ -1,0 +1,55 @@
+@import "../scss/typography";
+@import "../scss/variable";
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1180px;
+  }
+}
+
+.summary-icons-vacancy {
+    height: 60px;
+    width: 60px;
+    margin-right: 20px;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 50%;
+    color: $body-font-color;
+    background-color: #F44336;
+}
+.summary-icons-jobs {
+    height: 60px;
+    width: 60px;
+    margin-right: 20px;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 50%;
+    color: $body-font-color;
+    background-color: #4CAF50;
+}
+.summary-icons-country {
+    height: 60px;
+    width: 60px;
+    margin-right: 20px;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 50%;
+    color: $body-font-color;
+    background-color: #FF9800;
+}
+
+.vacancy-number {
+    color: #F44336;
+    font-size: 20px;
+    font-weight: 700;
+}
+.jobs-number {
+    color: #4CAF50;
+    font-size: 20px;
+    font-weight: 700;
+}
+.country-number {
+    color: #FF9800;
+    font-size: 20px;
+    font-weight: 700;
+}
