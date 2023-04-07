@@ -5,13 +5,13 @@ import '../styles/MainCatergories.scss'
 
 const MainCatergories = () => {
   return (
-    <div className="bg-secondary">
+    <div id="main-categories">
       <div className="container pt-5">
         <div className="row">
-          <div className="col-md-8">
+          <div className="col-md-9">
             <Catergory />
           </div>
-          <div className="col-md-4">
+          <div className="col-md-3">
             <SideCategory />
           </div>
         </div>

@@ -3,6 +3,7 @@ import { FaTag } from "react-icons/fa";
 import "../styles/Catergory.scss"
 import SpecialCategories from './SpecialCategories';
 import GeneralCategories from './GeneralCategories';
+import OpenAccounts from './OpenAcoounts'
 
 const Catergory = () => {
   const [specialBtnShow, setSpecialBtnShow] = useState(false);
@@ -45,6 +46,7 @@ const Catergory = () => {
       </div>
       {specialBtnShow && <SpecialCategories />}
       {generalBtnShow && <GeneralCategories />}
+      <OpenAccounts />
     </div>
   );
 }

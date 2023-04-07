@@ -1,0 +1,27 @@
+@import "../scss/typography";
+@import "../scss/variable";
+
+#accounts {
+  .cv-card {
+    margin: 15px;
+    padding: 20px 10px;
+    border-radius: 8px;
+    background-color: #036dc5;
+  }
+  .biodata-card {
+    margin: 15px;
+    padding: 0px 10px;
+    border-radius: 8px;
+    background-color: #6047AF ;
+  }
+  .acc-btn {
+    text-decoration: none;
+    background-color: #FFDC79;
+    border-radius: 4px;
+    padding: 9px 10px;
+    font-size: 13px;
+    line-height: 13px;
+    font-weight: 600;
+    color: #000000;
+  }
+}

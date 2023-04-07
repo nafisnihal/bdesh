@@ -1,6 +1,8 @@
 import React from "react";
 import "../styles/Summary.scss";
 import { MdPeopleAlt } from "react-icons/md";
+import { ImWrench } from "react-icons/im";
+import { FaGlobeAsia } from "react-icons/fa";
 
 const Summary = () => {
   return (
@@ -17,7 +19,7 @@ const Summary = () => {
         </div>
         <div className="col-md-4">
           <div className="py-4 d-flex justify-content-center align-items-center">
-            <MdPeopleAlt className="summary-icons-jobs" />
+            <ImWrench className="summary-icons-jobs" />
             <div>
               <p className="title-5 mb-0">No. of jobs</p>
               <p className="jobs-number mb-0">12</p>
@@ -26,7 +28,7 @@ const Summary = () => {
         </div>
         <div className="col-md-4">
           <div className="py-4 d-flex justify-content-center align-items-center">
-            <MdPeopleAlt className="summary-icons-country" />
+            <FaGlobeAsia className="summary-icons-country" />
             <div>
               <p className="title-5 mb-0">No. of countries</p>
               <p className="country-number mb-0">8</p>
