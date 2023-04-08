@@ -1,13 +1,20 @@
 @import "../scss/typography";
 @import "../scss/variable";
 
-.biodata-btn {
-  text-decoration: none;
-  border-radius: 10px;
-  background-color: #FFDC79;
-}
-.bdesh-btn {
-  text-decoration: none;
-  border-radius: 10px;
-  background-color: #ffffff;
+#country-category {
+  
+  // background-image: url(../assets/images/backgroundImages/banner-bg-r.png);
+  // background-position: bottom;
+  // background-repeat: no-repeat;
+  // background-size: auto;
+  .biodata-btn {
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: #ffdc79;
+  }
+  .bdesh-btn {
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: #ffffff;
+  }
 }

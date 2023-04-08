@@ -5,10 +5,10 @@ import { MdLocationPin } from "react-icons/md";
 
 const FindJob = () => {
   return (
-    <div id="find-job" className="d-flex flex-column align-items-end">
-      <div className="d-flex flex-column align-items-start my-4 me-4">
+    <div id="find-job" className="d-flex flex-column">
+      <div className="d-flex flex-column align-items-start mt-4 mb-5">
         <h1 className="title-1 mb-4">Find your dream job</h1>
-        <div>
+        <div className="w-100">
           <label htmlFor="inputOccupation" className="title-2 mb-2">
             <FaBriefcase className="mb-1 me-1" /> Write your occupation
           </label>

@@ -49,7 +49,7 @@ const Carousel = () => {
           <span className="visually-hidden">Next</span>
         </button>
       </div>
-      <div className="bg-white p-3"></div>
+      <div className="bg-white p-4"></div>
     </div>
   );
 };

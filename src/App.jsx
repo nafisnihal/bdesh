@@ -4,6 +4,7 @@ import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
 import Summary from "./Components/Summary";
 import MainCatergories from "./Components/MainCatergories";
+import Jobs from "./Components/Jobs";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Hero />
       <Summary />
       <MainCatergories />
+      <Jobs />
     </div>
   );
 }

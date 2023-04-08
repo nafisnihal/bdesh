@@ -1,21 +1,29 @@
 @import "../scss/typography";
 @import "../scss/variable";
 
-.search-btn {
-  margin-top: 4px;
-  padding: 10px 15px;
-  font-size: 14px;
-  font-weight: 600px;
-  background-color: $btn-color;
-  border: 0;
-  border-radius: 10px;
-}
-.search-btn:hover {
-  margin-top: 4px;
-  padding: 10px 15px;
-  font-size: 14px;
-  font-weight: 600px;
-  background-color: $secondary-color;
-  border: 0;
-  border-radius: 10px;
+#find-job {
+  // background-image: url(../assets/images/backgroundImages/banner-bg-l.png);
+  // background-position: bottom;
+  // background-repeat: no-repeat;
+  // background-blend-mode: screen;
+  // background-size: auto;
+
+  .search-btn {
+    margin-top: 4px;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: 600px;
+    background-color: $btn-color;
+    border: 0;
+    border-radius: 10px;
+  }
+  .search-btn:hover {
+    margin-top: 4px;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: 600px;
+    background-color: $secondary-color;
+    border: 0;
+    border-radius: 10px;
+  }
 }

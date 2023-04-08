@@ -5,8 +5,8 @@ import bdeshJatra from "../assets/images/bdesh_jatra.svg"
 
 const CountryCategory = () => {
   return (
-    <div className="d-flex flex-column align-items-start">
-      <div className="my-4">
+    <div id="country-category" className="d-flex flex-column align-items-start">
+      <div className="mt-4">
         <p className="title-1 mb-4">Country wise vacancies</p>
         <div className="d-flex flex-column">
           <a href="" className="title-3">
