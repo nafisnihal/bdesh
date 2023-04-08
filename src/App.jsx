@@ -6,6 +6,7 @@ import Summary from "./Components/Summary";
 import MainCatergories from "./Components/MainCatergories";
 import Jobs from "./Components/Jobs";
 import VideoAndJoint from "./Components/VideoAndJoint";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <MainCatergories />
       <Jobs />
       <VideoAndJoint />
+      <Footer />
     </div>
   );
 }

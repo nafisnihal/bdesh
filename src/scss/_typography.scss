@@ -146,7 +146,6 @@
   line-height: 19px;
 }
 .navs-sidecate-alt {
-  text-decoration: none;
   font-style: normal;
   text-decoration: none;
   font-weight: 500;
@@ -162,4 +161,26 @@
   color: #FF0000;
   font-size: 14px;
   line-height: 19px;
+}
+.footer-title {
+  font-style: normal;
+  text-decoration: none;
+  font-weight: 700;
+  color: $title-font-color;
+  font-size: 18px;
+  line-height: 23px;
+}
+.footer-navs {
+  font-style: normal;
+  text-decoration: none;
+  color: #767676;
+  font-size: 16px;
+  line-height: 22px;
+}
+.footer-navs:hover {
+  font-style: normal;
+  text-decoration: none;
+  color: $title-font-color;
+  font-size: 16px;
+  line-height: 22px;
 }
