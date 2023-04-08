@@ -1,0 +1,96 @@
+{
+  "index.css": {
+    "file": "assets/index-08b80915.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/logo_bdesh-4f715cb7.svg",
+      "assets/profile-34d23789.jpg",
+      "assets/slide-00-43814c82.jpg",
+      "assets/slide-01-e7d84dbb.jpg",
+      "assets/slide-03-28d08dcf.jpg",
+      "assets/slide-04-c9b981b4.jpg",
+      "assets/slide-05-3f9a1e04.jpg",
+      "assets/bdesh_jatra-7501e0b6.svg",
+      "assets/thousand_cv-3e4ca630.png",
+      "assets/make-bio-cdba25a7.png",
+      "assets/promo-video-home-89e96645.jpg",
+      "assets/IOM-45c6d855.png",
+      "assets/google-play-badge-866f0c45.svg",
+      "assets/call-9d641339.png",
+      "assets/banner-bg-l-9bd78ca9.png",
+      "assets/countrys-job-bg-7e3d3254.png"
+    ],
+    "css": [
+      "assets/index-08b80915.css"
+    ],
+    "file": "assets/index-b7045e99.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "src/assets/images/IOM.png": {
+    "file": "assets/IOM-45c6d855.png",
+    "src": "src/assets/images/IOM.png"
+  },
+  "src/assets/images/backgroundImages/banner-bg-l.png": {
+    "file": "assets/banner-bg-l-9bd78ca9.png",
+    "src": "src/assets/images/backgroundImages/banner-bg-l.png"
+  },
+  "src/assets/images/backgroundImages/countrys-job-bg.png": {
+    "file": "assets/countrys-job-bg-7e3d3254.png",
+    "src": "src/assets/images/backgroundImages/countrys-job-bg.png"
+  },
+  "src/assets/images/bdesh_jatra.svg": {
+    "file": "assets/bdesh_jatra-7501e0b6.svg",
+    "src": "src/assets/images/bdesh_jatra.svg"
+  },
+  "src/assets/images/call.png": {
+    "file": "assets/call-9d641339.png",
+    "src": "src/assets/images/call.png"
+  },
+  "src/assets/images/google-play-badge.svg": {
+    "file": "assets/google-play-badge-866f0c45.svg",
+    "src": "src/assets/images/google-play-badge.svg"
+  },
+  "src/assets/images/logo_bdesh.svg": {
+    "file": "assets/logo_bdesh-4f715cb7.svg",
+    "src": "src/assets/images/logo_bdesh.svg"
+  },
+  "src/assets/images/make-bio.png": {
+    "file": "assets/make-bio-cdba25a7.png",
+    "src": "src/assets/images/make-bio.png"
+  },
+  "src/assets/images/profile.jpg": {
+    "file": "assets/profile-34d23789.jpg",
+    "src": "src/assets/images/profile.jpg"
+  },
+  "src/assets/images/promo-video-home.jpg": {
+    "file": "assets/promo-video-home-89e96645.jpg",
+    "src": "src/assets/images/promo-video-home.jpg"
+  },
+  "src/assets/images/slide-00.jpg": {
+    "file": "assets/slide-00-43814c82.jpg",
+    "src": "src/assets/images/slide-00.jpg"
+  },
+  "src/assets/images/slide-01.jpg": {
+    "file": "assets/slide-01-e7d84dbb.jpg",
+    "src": "src/assets/images/slide-01.jpg"
+  },
+  "src/assets/images/slide-03.jpg": {
+    "file": "assets/slide-03-28d08dcf.jpg",
+    "src": "src/assets/images/slide-03.jpg"
+  },
+  "src/assets/images/slide-04.jpg": {
+    "file": "assets/slide-04-c9b981b4.jpg",
+    "src": "src/assets/images/slide-04.jpg"
+  },
+  "src/assets/images/slide-05.jpg": {
+    "file": "assets/slide-05-3f9a1e04.jpg",
+    "src": "src/assets/images/slide-05.jpg"
+  },
+  "src/assets/images/thousand_cv.png": {
+    "file": "assets/thousand_cv-3e4ca630.png",
+    "src": "src/assets/images/thousand_cv.png"
+  }
+}

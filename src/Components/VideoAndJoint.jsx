@@ -12,7 +12,43 @@ const VideoAndJoint = () => {
           <div className="col-md-6">
             <p className="fs-4 fw-bold">Bdesh Jobs, in trust and reliance</p>
             <div>
-              <img src={promo} alt="" className="rounded" />
+              <button
+                className="border-0"
+                data-bs-toggle="modal"
+                data-bs-target="#exampleModal"
+              >
+                <img src={promo} alt="" className="rounded" />
+              </button>
+              <div
+                class="modal fade"
+                id="exampleModal"
+                tabindex="-1"
+                aria-labelledby="exampleModalLabel"
+                aria-hidden="true"
+              >
+                <div class="modal-dialog modal-dialog-centered">
+                  <div class="modal-content bg-black">
+                    <div class="modal-body">
+                      <div class="ratio ratio-16x9">
+                        <iframe
+                          src="https://www.youtube.com/embed/e3wpqRBmWGU"
+                          title="YouTube video"
+                          muted={true}
+                        ></iframe>
+                      </div>
+                    </div>
+                    <div class="modal-footer">
+                      <button
+                        type="button"
+                        class="btn btn-secondary m-0"
+                        data-bs-dismiss="modal"
+                      >
+                        Close
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
           <div className="col-md-6">
