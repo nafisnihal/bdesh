@@ -5,6 +5,7 @@ import Hero from "./Components/Hero";
 import Summary from "./Components/Summary";
 import MainCatergories from "./Components/MainCatergories";
 import Jobs from "./Components/Jobs";
+import VideoAndJoint from "./Components/VideoAndJoint";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Summary />
       <MainCatergories />
       <Jobs />
+      <VideoAndJoint />
     </div>
   );
 }

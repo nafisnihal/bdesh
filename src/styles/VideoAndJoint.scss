@@ -1,0 +1,12 @@
+@import "../scss/typography";
+@import "../scss/variable";
+
+#video-and-joint {
+  background-color: #eceff1;
+
+  @media (min-width: 1200px) {
+    .container {
+      max-width: 1180px;
+    }
+  }
+}

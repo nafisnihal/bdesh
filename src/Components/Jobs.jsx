@@ -17,9 +17,6 @@ const Jobs = () => {
           <Swiper
             slidesPerView={5}
             spaceBetween={30}
-            pagination={{
-              clickable: true,
-            }}
             modules={[Pagination]}
             className="mySwiper"
           >
