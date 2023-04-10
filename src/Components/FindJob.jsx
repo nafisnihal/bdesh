@@ -5,8 +5,8 @@ import { MdLocationPin } from "react-icons/md";
 
 const FindJob = () => {
   return (
-    <div id="find-job" className="d-flex flex-column">
-      <div className="d-flex flex-column align-items-start mt-4 mb-5">
+    <div id="find-job" className="d-flex flex-column ">
+      <div className="d-flex flex-column align-items-center align-items-md-start mt-4 mb-5">
         <h1 className="title-1 mb-4">Find your dream job</h1>
         <div className="w-100">
           <label htmlFor="inputOccupation" className="title-2 mb-2">
@@ -52,7 +52,10 @@ const FindJob = () => {
             <option value="8">Jordan</option>
           </select>
         </div>
-        <button type="submit" className="search-btn">
+        <button type="submit" className="search-btn d-none d-md-block">
+          Search
+        </button>
+        <button type="submit" className="search-btn d-block d-md-none w-100">
           Search
         </button>
       </div>

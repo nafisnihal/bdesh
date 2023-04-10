@@ -5,7 +5,7 @@ import { BsArrowRightCircle } from "react-icons/bs";
 
 const SideCategory = () => {
   return (
-    <div className="mt-3 pt-5">
+    <div className="mt-3 pt-0 pt-md-5 ">
       <div className="p-4 mb-3 rounded d-flex flex-column gap-2 guideline-section">
         <p className="title-sidecate">বিদেশ জবস্ এর গাইডলাইন</p>
         <a

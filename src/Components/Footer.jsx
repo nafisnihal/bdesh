@@ -1,6 +1,6 @@
-import React from 'react'
-import "../styles/Footer.scss"
-import gplay from "../assets/images/google-play-badge.svg"
+import React from "react";
+import "../styles/Footer.scss";
+import gplay from "../assets/images/google-play-badge.svg";
 import call from "../assets/images/call.png";
 
 const Footer = () => {
@@ -8,7 +8,7 @@ const Footer = () => {
     <div id="footer">
       <div className="container py-5">
         <div className="row">
-          <div className="col-md-2 me-5">
+          <div className="col-md-2 me-5 d-none d-md-block">
             <p className="footer-title">About Us</p>
             <div className="d-flex flex-column gap-2">
               <a href="" className="footer-navs">
@@ -22,7 +22,7 @@ const Footer = () => {
               </a>
             </div>
           </div>
-          <div className="col-md-2 me-5">
+          <div className="col-md-2 me-5 d-none d-md-block">
             <p className="footer-title">Job Seekers</p>
             <div className="d-flex flex-column gap-2">
               <a href="" className="footer-navs">
@@ -36,7 +36,7 @@ const Footer = () => {
               </a>
             </div>
           </div>
-          <div className="col-md-2 me-5">
+          <div className="col-md-2 me-5 d-none d-md-block">
             <p className="footer-title">Employers</p>
             <div className="d-flex flex-column gap-2">
               <a href="" className="footer-navs">
@@ -53,7 +53,7 @@ const Footer = () => {
               </a>
             </div>
           </div>
-          <div className="col-md-2 me-5">
+          <div className="col-md-2 me-5 mb-5 d-flex flex-column align-items-center align-items-md-start">
             <p className="footer-title">Tools & Social Media</p>
             <div className="d-flex flex-column gap-2">
               <a href="" className="footer-navs">
@@ -64,7 +64,7 @@ const Footer = () => {
               </a>
             </div>
           </div>
-          <div className="col-md-2">
+          <div className="col-md-2 d-flex flex-column align-items-center align-items-md-start">
             <p className="footer-title">Contact Us</p>
             <div className="d-flex flex-column gap-2">
               <a href="" className="footer-navs">
@@ -79,6 +79,6 @@ const Footer = () => {
       </div>
     </div>
   );
-}
+};
 
-export default Footer
+export default Footer;

@@ -7,14 +7,18 @@ import MainCatergories from "./Components/MainCatergories";
 import Jobs from "./Components/Jobs";
 import VideoAndJoint from "./Components/VideoAndJoint";
 import Footer from "./Components/Footer";
+import MobileNavbar from "./Components/MobileNavbar";
 
 function App() {
   return (
     <div>
       <Header />
       <Navbar />
+      <MobileNavbar />
       <Hero />
-      <Summary />
+      <div className="d-none d-md-block  bg-white">
+        <Summary />
+      </div>
       <MainCatergories />
       <Jobs />
       <VideoAndJoint />

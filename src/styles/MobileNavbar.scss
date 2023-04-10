@@ -1,0 +1,14 @@
+@import "../scss/typography";
+@import "../scss/variable";
+
+#mobile-navbar {
+    .logo {
+        width: 170px;
+    }
+
+    .profile-picture {
+        width : 20px;
+        border: 2px solid $primary-color;
+        border-radius: 50%;
+    }
+}

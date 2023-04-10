@@ -5,7 +5,7 @@ import { AiFillFacebook, AiFillYoutube, AiFillForward } from "react-icons/ai";
 const Header = () => {
   return (
     <div id="header">
-      <div className="container d-flex justify-content-between">
+      <div className="container d-md-flex justify-content-between d-none">
         <div className="d-flex gap-5 align-items-center">
           <a href="https://bdjobs.com/" className="header-menu">
             Bdjobs

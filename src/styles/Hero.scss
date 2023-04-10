@@ -2,7 +2,8 @@
 @import "../scss/variable";
 
 #hero {
-  background:linear-gradient(rgba(47,129,222, 1), rgba(47,129,222, 0.9)),  url(../assets//images/backgroundImages/banner-bg-l.png);
+  background: linear-gradient(rgba(47, 129, 222, 1), rgba(47, 129, 222, 0.9)),
+    url(../assets//images/backgroundImages/banner-bg-l.png);
   background-repeat: no-repeat;
   background-position-x: left;
   background-position-y: bottom;

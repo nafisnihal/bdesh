@@ -42,7 +42,7 @@ const CountryCategory = () => {
             </p>
           </a>
         </div>
-        <div className="w-75 mt-1">
+        <div className="w-75 mt-1 mb-3">
           <a
             href="https://www.bdeshjaatra.com/"
             className="bdesh-btn d-flex flex-column align-items-center justify-content-center"

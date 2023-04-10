@@ -13,7 +13,7 @@ import {
 const Navbar = () => {
   return (
     <div id="navbar">
-      <div className="container py-3 d-flex justify-content-between">
+      <div className="container py-3 d-none d-md-flex justify-content-between">
         <div className="logo">
           <a href="">
             <img src={logo} alt="" className="img-fluid" />

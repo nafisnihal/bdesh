@@ -6,8 +6,8 @@ import "../styles/OpenAcoounts.scss";
 const OpenAcoounts = () => {
   return (
     <div id="accounts">
-      <div className="row">
-        <div className="col-md-6 d-flex align-items-center cv-card">
+      <div className="d-flex flex-column flex-md-row">
+        <div className="d-flex align-items-center cv-card">
           <div>
             <img src={cv} alt="" />
           </div>
@@ -24,7 +24,7 @@ const OpenAcoounts = () => {
             </a>
           </div>
         </div>
-        <div className="col-md-5 d-flex align-items-center biodata-card">
+        <div className="d-flex align-items-center biodata-card">
           <div>
             <img src={bio} alt="" className="img-fluid" />
           </div>

@@ -7,9 +7,9 @@ import iom from "../assets/images/IOM.png";
 const VideoAndJoint = () => {
   return (
     <div id="video-and-joint">
-      <div className="container py-5">
+      <div className="container">
         <div className="row">
-          <div className="col-md-6">
+          <div className="col-md-6 pt-5 pb-3">
             <p className="fs-4 fw-bold">Bdesh Jobs, in trust and reliance</p>
             <div>
               <button
@@ -17,7 +17,7 @@ const VideoAndJoint = () => {
                 data-bs-toggle="modal"
                 data-bs-target="#exampleModal"
               >
-                <img src={promo} alt="" className="rounded" />
+                <img src={promo} alt="" className="rounded img-fluid" />
               </button>
               <div
                 class="modal fade"
@@ -51,7 +51,7 @@ const VideoAndJoint = () => {
               </div>
             </div>
           </div>
-          <div className="col-md-6">
+          <div className="col-md-6 pt-5 pb-3">
             <p className="fs-4 fw-bold">Jointly Organized</p>
             <div className="d-flex align-items-center gap-3">
               <div className="p-4 bg-white rounded">
