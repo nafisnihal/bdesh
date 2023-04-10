@@ -128,9 +128,9 @@ const MobileNavbar = () => {
             </div>
           </div>
         </div>
-        <div className="flex-fill ms-5 ps-5">
+        <div className="flex-fill ms-5 ps-4">
           <a href="">
-            <img src={logo} alt="" className="logo ms-5" />
+            <img src={logo} alt="" className="logo" />
           </a>
         </div>
       </div>
