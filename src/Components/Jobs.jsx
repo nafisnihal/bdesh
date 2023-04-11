@@ -21,100 +21,100 @@ const Jobs = () => {
             className="mySwiper  d-none d-md-block"
           >
             <SwiperSlide className="">
-              <div class="card text-center border-0 ">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">45</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0 ">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">45</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   United Arab Emirates
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide className="">
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">35</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">35</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Saudi Arabia
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide className="">
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">25</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">25</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Japan
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">25</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">25</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Japan
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">11</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">11</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   South Korea
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">6</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">6</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Malaysia
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">6</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">6</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Oman
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">1</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">1</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Jordan
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">1</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">1</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Denmark
                 </div>
               </div>
@@ -127,100 +127,100 @@ const Jobs = () => {
             className="mySwiper d-block d-md-none"
           >
             <SwiperSlide className="">
-              <div class="card text-center border-0 ">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">45</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0 ">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">45</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   United Arab Emirates
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide className="">
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">35</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">35</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Saudi Arabia
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide className="">
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">25</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">25</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Japan
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">25</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">25</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Japan
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">11</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">11</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   South Korea
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">6</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">6</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Malaysia
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">6</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">6</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Oman
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">1</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">1</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Jordan
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div class="card text-center border-0">
-                <div class="card-body">
-                  <h5 class="card-title fw-bold text-success">1</h5>
-                  <p class="card-text">vacancies</p>
+              <div className="card text-center border-0">
+                <div className="card-body">
+                  <h5 className="card-title fw-bold text-success">1</h5>
+                  <p className="card-text">vacancies</p>
                 </div>
-                <div class="card-footer bg-black text-white border-0 fw-bold">
+                <div className="card-footer bg-black text-white border-0 fw-bold">
                   Denmark
                 </div>
               </div>

@@ -1,6 +1,6 @@
 {
   "index.css": {
-    "file": "assets/index-8cca8488.css",
+    "file": "assets/index-d3f1420b.css",
     "src": "index.css"
   },
   "index.html": {
@@ -23,9 +23,9 @@
       "assets/countrys-job-bg-7e3d3254.png"
     ],
     "css": [
-      "assets/index-8cca8488.css"
+      "assets/index-d3f1420b.css"
     ],
-    "file": "assets/index-fa12fb9b.js",
+    "file": "assets/index-0347be1f.js",
     "isEntry": true,
     "src": "index.html"
   },

@@ -12,7 +12,7 @@ const OpenAcoounts = () => {
             <img src={cv} alt="" />
           </div>
           <div className="ms-3">
-            <p className="title-account">
+            <p className="bangla-title-4">
               হাজারো চাকরির মাঝে আপনার পছন্দের চাকরি খুঁজে আবেদন করতে জয়েন করুন
               আমাদের সাইটে।
             </p>
@@ -29,9 +29,10 @@ const OpenAcoounts = () => {
             <img src={bio} alt="" className="img-fluid" />
           </div>
           <div className="ms-3">
-            <p className="fs-5 text-white mb-0">বায়োডাটা তৈরি করতে চান?</p>
-            <p className="title-account">
-              {" "}
+            <p className="fs-5 text-white mb-0 bangla-title-4">
+              বায়োডাটা তৈরি করতে চান?
+            </p>
+            <p className="bangla-title-4">
               সহজ কয়েকটি ধাপে এখনই স্বল্প সময়েই তৈরি করুন আপনার সিভি
             </p>
             <a

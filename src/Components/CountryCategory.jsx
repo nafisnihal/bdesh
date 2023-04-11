@@ -48,7 +48,7 @@ const CountryCategory = () => {
             className="bdesh-btn d-flex flex-column align-items-center justify-content-center"
           >
             <img src={bdeshJatra} alt="" className="mt-2" />
-            <p className="header-menu m-0">অভিবাসন বিষয়ক তথ্য</p>
+            <p className="bangla-title-1 m-0 mt-2 mb-2 text-primary">অভিবাসন বিষয়ক তথ্য</p>
           </a>
         </div>
       </div>

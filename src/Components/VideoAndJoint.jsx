@@ -20,16 +20,16 @@ const VideoAndJoint = () => {
                 <img src={promo} alt="" className="rounded img-fluid" />
               </button>
               <div
-                class="modal fade"
+                className="modal fade"
                 id="exampleModal"
-                tabindex="-1"
+                tabIndex="-1"
                 aria-labelledby="exampleModalLabel"
                 aria-hidden="true"
               >
-                <div class="modal-dialog modal-dialog-centered">
-                  <div class="modal-content bg-black">
-                    <div class="modal-body">
-                      <div class="ratio ratio-16x9">
+                <div className="modal-dialog modal-dialog-centered">
+                  <div className="modal-content bg-black">
+                    <div className="modal-body">
+                      <div className="ratio ratio-16x9">
                         <iframe
                           src="https://www.youtube.com/embed/e3wpqRBmWGU"
                           title="YouTube video"
@@ -37,10 +37,10 @@ const VideoAndJoint = () => {
                         ></iframe>
                       </div>
                     </div>
-                    <div class="modal-footer">
+                    <div className="modal-footer">
                       <button
                         type="button"
-                        class="btn btn-secondary m-0"
+                        className="btn btn-secondary m-0"
                         data-bs-dismiss="modal"
                       >
                         Close

@@ -28,11 +28,11 @@ const MobileNavbar = () => {
           </a>
           <div
             className="offcanvas offcanvas-start vw-100"
-            tabindex="-1"
+            tabIndex="-1"
             id="offcanvasExample"
             aria-labelledby="offcanvasExampleLabel"
           >
-            <div class="offcanvas-header">
+            <div className="offcanvas-header">
               <button
                 type="button"
                 className="btn-close"

@@ -2,6 +2,7 @@
 
 .header-menu {
   text-decoration: none;
+  font-family: $font-family;
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
@@ -11,6 +12,7 @@
 }
 .header-menu-special {
   text-decoration: none;
+  font-family: $font-family;
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
@@ -22,6 +24,7 @@
 }
 .navbar-menu {
   text-decoration: none;
+  font-family: $font-family;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -31,6 +34,7 @@
 }
 .navbar-menu-alt {
   text-decoration: none;
+  font-family: $font-family;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -40,6 +44,7 @@
 }
 .navbar-menu:hover {
   text-decoration: none;
+  font-family: $font-family;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -49,6 +54,7 @@
 }
 .navbar-menu-alt:hover {
   text-decoration: none;
+  font-family: $font-family;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -58,6 +64,7 @@
 }
 .title-1 {
   text-decoration: none;
+  font-family: $font-family;
   font-style: normal;
   font-weight: 600;
   font-size: 22px;
@@ -66,6 +73,7 @@
 }
 .title-2 {
   text-decoration: none;
+  font-family: $font-family;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -74,6 +82,17 @@
 }
 .title-3 {
   margin-bottom: 12px;
+  font-family: $font-family;
+  text-decoration: none;
+  font-style: normal;
+  font-size: 16px;
+  opacity: 0.8;
+  line-height: 23px;
+  color: $body-font-color;
+}
+.title-3:hover {
+  margin-bottom: 12px;
+  font-family: $font-family;
   text-decoration: none;
   font-style: normal;
   font-size: 16px;
@@ -83,6 +102,7 @@
 }
 .title-4 {
   margin-bottom: 12px;
+  font-family: $font-family;
   text-decoration: none;
   font-style: normal;
   font-size: 16px;
@@ -91,23 +111,52 @@
 }
 .title-5 {
   text-decoration: none;
+  font-family: $font-family;
   font-style: normal;
   font-size: 18px;
   font-weight: 600;
   line-height: 24px;
   color: $title-font-color;
 }
-.title-3:hover {
-  margin-bottom: 12px;
+.bangla-title-1 {
   text-decoration: none;
+  font-family: $bangla-font-family;
+  font-style: normal;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 19px;
+  color: #0c4c9c;
+}
+.bangla-title-2 {
+  text-decoration: none;
+  font-family: $bangla-font-family;
   font-style: normal;
   font-size: 16px;
-  opacity: 0.8;
+  font-weight: 600;
+  line-height: 17px;
+  color: $title-font-color;
+}
+.bangla-title-3 {
+  text-decoration: none;
+  font-family: $bangla-font-family;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 19px;
+  color: #757575;
+}
+.bangla-title-4 {
+  text-decoration: none;
+  font-family: $bangla-font-family;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 500;
   line-height: 23px;
   color: $body-font-color;
 }
 .category-btn-title {
   text-decoration: none;
+  font-family: $font-family;
   font-size: 14px;
   font-weight: 600;
   line-height: 20px;
@@ -115,6 +164,7 @@
 }
 .category-btn-title:hover {
   text-decoration: none;
+  font-family: $font-family;
   font-size: 14px;
   font-weight: 600;
   line-height: 20px;
@@ -122,6 +172,7 @@
 }
 .title-account {
   text-decoration: none;
+  font-family: $font-family;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -130,6 +181,7 @@
 }
 .title-sidecate {
   text-decoration: none;
+  font-family: $bangla-font-family;
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -138,6 +190,7 @@
 }
 .navs-sidecate {
   text-decoration: none;
+  font-family: $bangla-font-family;
   font-style: normal;
   text-decoration: none;
   font-weight: 500;
@@ -147,6 +200,7 @@
 }
 .navs-sidecate-alt {
   font-style: normal;
+  font-family: $bangla-font-family;
   text-decoration: none;
   font-weight: 500;
   color: #006747;
@@ -155,15 +209,17 @@
 }
 .navs-sidecate-alt:hover {
   text-decoration: none;
+  font-family: $bangla-font-family;
   font-style: normal;
   text-decoration: none;
   font-weight: 500;
-  color: #FF0000;
+  color: #ff0000;
   font-size: 14px;
   line-height: 19px;
 }
 .footer-title {
   font-style: normal;
+  font-family: $font-family;
   text-decoration: none;
   font-weight: 700;
   color: $title-font-color;
@@ -172,6 +228,7 @@
 }
 .footer-navs {
   font-style: normal;
+  font-family: $font-family;
   text-decoration: none;
   color: #767676;
   font-size: 16px;
@@ -179,21 +236,24 @@
 }
 .footer-navs:hover {
   font-style: normal;
+  font-family: $font-family;
   text-decoration: none;
   color: $title-font-color;
   font-size: 16px;
   line-height: 22px;
 }
-.mobile-navbar-menu{
+.mobile-navbar-menu {
   font-style: normal;
+  font-family: $font-family;
   text-decoration: none;
   color: $title-font-color;
   font-size: 16px;
   font-weight: 600;
   line-height: 23px;
 }
-.mobile-navbar-menu:hover{
+.mobile-navbar-menu:hover {
   font-style: normal;
+  font-family: $font-family;
   text-decoration: none;
   color: $title-font-color;
   font-size: 16px;
